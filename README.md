@@ -11,7 +11,7 @@
 
 ## 📁 Dataset
 ##### Name: Loan Prediction Dataset
-##### Source: (Kaggle version commonly used)
+##### Source: https://www.kaggle.com/datasets/ninzaami/loan-predication
 ##### Shape: Rows: 614 samples, Columns: 13 features
 #### Target Label:
 ##### 1 → Loan Approved
