@@ -53,8 +53,8 @@
 
 ## 🚀 Results & Insights
 #### Model Accuracy
-##### Training Accuracy: ~ (Your printed value)
-##### Testing Accuracy: ~ (Your printed value)
+##### Training Accuracy: 79.86%
+##### Testing Accuracy: 83.33%
 #### Prediction System
 ##### Successfully predicts loan status for new applicants using only their profile & financial indicators.
 #### Model Reliability
